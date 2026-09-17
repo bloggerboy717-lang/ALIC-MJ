@@ -1,0 +1,6 @@
+{
+  "name": "M.J Voice Assistant",
+  "description": "A real-time voice-to-voice AI assistant using Gemini Live.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
